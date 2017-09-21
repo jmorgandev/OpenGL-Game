@@ -1,0 +1,8 @@
+Move with WSAD
+Look with the Mouse
+Collect the green keycard to progress to the next floor.
+Avoid shock-spheres.
+
+Press ESC to quit to the main menu.
+
+Press ESC in main menu to quit.

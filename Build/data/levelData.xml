@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<LEVELS>	
+	<level name="Level0" filename="data/level0.png"/>
+	<level name="Level1" filename="data/level1.png"/>
+	<level name="Level2" filename="data/level2.png"/>
+	<level name="Level3" filename="data/level3.png"/>
+</LEVELS>

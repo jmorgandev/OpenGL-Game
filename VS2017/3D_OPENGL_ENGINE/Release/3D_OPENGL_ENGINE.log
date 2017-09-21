@@ -1,0 +1,76 @@
+﻿  base64.cpp
+base64.cpp(88): warning C4267: '=': conversion from 'size_t' to 'unsigned char', possible loss of data
+base64.cpp(105): warning C4267: '=': conversion from 'size_t' to 'unsigned char', possible loss of data
+  Block.cpp
+  BoxCollider.cpp
+  Camera.cpp
+  CollisionHandler.cpp
+  Elevator.cpp
+Elevator.cpp(64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Elevator.cpp(68): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Enemy.cpp
+Enemy.cpp(9): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Enemy.cpp(27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Enemy.cpp(30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  EventHandler.cpp
+  EventPoller.cpp
+  Floor.cpp
+  Game.cpp
+  GameObject.cpp
+  GameObjectFactory.cpp
+  GameStateMachine.cpp
+  Keycard.cpp
+Keycard.cpp(9): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Level.cpp
+  LevelManager.cpp
+c:\users\jamie\desktop\blyat\3d opengl game\3d_opengl_engine\3d_opengl_engine\Keycard.h(7): warning C4005: 'BOB_MAGNITUDE': macro redefinition
+  c:\users\jamie\desktop\blyat\3d opengl game\3d_opengl_engine\3d_opengl_engine\Enemy.h(12): note: see previous definition of 'BOB_MAGNITUDE'
+LevelManager.cpp(80): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+LevelManager.cpp(81): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+LevelManager.cpp(90): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+LevelManager.cpp(98): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+LevelManager.cpp(106): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+LevelManager.cpp(114): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+LevelManager.cpp(125): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+LevelManager.cpp(137): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+LevelManager.cpp(149): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+LevelManager.cpp(161): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+LevelManager.cpp(62): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'std::string'
+LevelManager.cpp(63): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'const char *(__cdecl *)(void)'
+  Light.cpp
+  main.cpp
+  Material.cpp
+  Compiling...
+  MenuState.cpp
+  Plane.cpp
+  Player.cpp
+Player.cpp(56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Player.cpp(57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Player.cpp(58): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Player.cpp(59): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Player.cpp(62): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Player.cpp(63): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Player.cpp(64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Player.cpp(65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Player.cpp(104): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  PlayState.cpp
+  StateParser.cpp
+  Teapot.cpp
+  TextureManager.cpp
+TextureManager.cpp(77): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+TextureManager.cpp(78): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+TextureManager.cpp(79): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+TextureManager.cpp(80): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+TextureManager.cpp(111): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+TextureManager.cpp(112): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+TextureManager.cpp(113): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+TextureManager.cpp(114): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  tinyxml.cpp
+  tinyxmlerror.cpp
+  tinyxmlparser.cpp
+  WinState.cpp
+  Generating code
+  All 1394 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  3D_OPENGL_ENGINE.vcxproj -> C:\Users\Jamie\Desktop\blyat\3D OpenGL Game\3D_OPENGL_ENGINE\Release\3D_OPENGL_ENGINE.exe
+  3D_OPENGL_ENGINE.vcxproj -> C:\Users\Jamie\Desktop\blyat\3D OpenGL Game\3D_OPENGL_ENGINE\Release\3D_OPENGL_ENGINE.pdb (Full PDB)
