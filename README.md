@@ -1,5 +1,5 @@
 # OpenGL-Game
-A short 3D game made with a specialized 2D game engine
+A short 3D game made with a specialized 3D game engine
 
 Built to explore 3D game development with OpenGL, the engine is very specialized for this type of first person game. The engine loads in level data from the pixel data of a texture, meaning level editing is simple and efficient. It also parses XML files, but only for loading in a list of level file locations.
 
